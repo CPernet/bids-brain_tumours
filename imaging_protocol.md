@@ -20,3 +20,7 @@ If the patient can tolerate it, and depending on utility for treatments, additio
 * ASL
 
 (discuss evidence for each imaging protocol)
+
+## PET-MRI
+
+if available, MRI can be performed concurently to PET - applications beyond doing it one after the other?
