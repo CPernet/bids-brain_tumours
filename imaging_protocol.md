@@ -20,8 +20,3 @@ If the patient can tolerate it, and depending on utility for treatments, additio
 * ASL
 
 (discuss evidence for each imaging protocol)
-
-### recommended post-processing
-* DTI (Motion / EC correction, non-linear / robust fitting - evidence for 3 tissue compartiment modelling)
-* Leakage-correction for rCBV estimation (Boxerman et al.)
-* fMRI tbd
