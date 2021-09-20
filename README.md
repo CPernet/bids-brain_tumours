@@ -1,6 +1,6 @@
 # bids-brain_tumours
 
-This repository is a template specification for brain tumour imaging using BIDS.
+This repository is using BIDS specification for brain tumour imaging. This allows to exemplify how data can be stored and check that the BIDS specification has all the information to store such data (if not we can feedback to improve the BIDS specification).
 
 ## Folders
 
