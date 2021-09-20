@@ -10,3 +10,7 @@
 
 - Organizing your data with BIDS, a practical view (Dr Patricia Clement)
 
+## BIDS discussion
+- an example of repository and Meta Data overview
+- imaging example, what is missing?
+- what tools can help?
