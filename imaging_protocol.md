@@ -5,9 +5,7 @@ Following clinical recommendations (ref?):
 * T2w (resolution 1mm^3)
 * FLAIR (resolution 2mm^3 ?)
 * DWI (resolution 3mm tra ?)
-
-? 
-* DSC perfusion (resolution 3-6mm tra)
+* DSC perfusion (resolution 3-6mm tra) - no BIDS spec ? - 
 
 If possible, anatomic images should be 3D and isotropic. In any case, there should be no gap between slices.
 
