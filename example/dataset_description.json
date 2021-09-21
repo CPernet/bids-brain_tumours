@@ -1,0 +1,14 @@
+{
+  "Name": "tumour template",
+  "BIDSVersion": "1.4.0",
+  "DatasetType": "raw",
+  "License": "GDPR-DUA",
+  "Authors": [
+    "Percival Bailey",
+    "Harvey Cushing"
+  ],
+  "Acknowledgements": "Thanks to the COST association.",
+  "Funding": [
+    "COST association CA-18206"
+  ],
+}
