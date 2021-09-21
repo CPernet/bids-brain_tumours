@@ -45,7 +45,6 @@
   "ScanStart": 0,
   "InjectionStart": 0,
   "DoseCalibrationFactor": 43.37846150226028,
-  "Filename": "/indirect/openneuropet/DASB/SAD/sub-0130/session-baseline/pet/laursen-nanna-2010.11.22.12.49.36_em_3D.nii.gz",
   "Filemoddate": "31-Aug-2021 21:39:25",
   "Version": "NIfTI1",
   "ConversionSoftware": "ecat2nii.m",
