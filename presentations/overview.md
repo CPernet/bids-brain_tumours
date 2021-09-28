@@ -8,7 +8,7 @@
 
 ## BIDS in practice
 
-- Organizing your data with BIDS, a practical view (Dr Patricia Clement)
+- [Organizing your data with BIDS, a practical view](https://docs.google.com/presentation/d/1Eey-dYwhfu9MJiKpq626zyNU9aIHU-AY/edit?usp=sharing&ouid=114252464023784928785&rtpof=true&sd=true) (Dr Patricia Clement)
 
 ## BIDS discussion
 - an example of repository and Meta Data overview
